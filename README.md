@@ -1,5 +1,2 @@
-I am a Master of Engineering graduate with interests in Data Integration, Data Quality, Artificial Intelligence, and Information Systems Engineering.
+I am a Master of Engineering graduate
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=197005&center=true&vCenter=true&width=500&lines=Data+Integration;Data+Transformation;Data+Analysis;AI+pipelines)
-
-I enjoy building scalable data systems and exploring methods for improving AI-ready datasets.
